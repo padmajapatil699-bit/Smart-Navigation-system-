@@ -1,0 +1,17 @@
+# Dataset files
+dataset/
+
+# Trained model weights
+*.pt
+
+# Training outputs
+runs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment secrets
+.env
+venv/
+.venv/
